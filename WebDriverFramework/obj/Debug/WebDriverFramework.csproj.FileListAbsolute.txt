@@ -1,0 +1,10 @@
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriverFramework.exe.config
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriverFramework.exe
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriverFramework.pdb
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.dll
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.Support.dll
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.xml
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.Support.xml
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.csprojResolveAssemblyReference.cache
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.exe
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.pdb

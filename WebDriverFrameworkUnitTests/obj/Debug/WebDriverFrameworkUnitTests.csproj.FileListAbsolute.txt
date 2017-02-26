@@ -1,0 +1,11 @@
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriverFrameworkUnitTests.dll
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriverFrameworkUnitTests.pdb
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\nunit.framework.dll
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\nunit.framework.xml
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\obj\Debug\WebDriverFrameworkUnitTests.csprojResolveAssemblyReference.cache
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\obj\Debug\WebDriverFrameworkUnitTests.dll
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\obj\Debug\WebDriverFrameworkUnitTests.pdb
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriver.dll
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriver.Support.dll
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriver.xml
+c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriver.Support.xml
