@@ -72,11 +72,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bisnode\POM\BisnodeBasicNavigation.cs" />
+    <Compile Include="Bisnode\POM\BisnodeMainSite.cs" />
+    <Compile Include="Bisnode\BisnodeMainSite_UnitTests.cs" />
     <Compile Include="PageObject.cs" />
     <Compile Include="PropertiesCollection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SeleniumMethods.cs" />
-    <Compile Include="Bisnode\BisnodeNavigationUnitTest.cs" />
+    <Compile Include="Bisnode\BisnodeNavigation_UnitTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

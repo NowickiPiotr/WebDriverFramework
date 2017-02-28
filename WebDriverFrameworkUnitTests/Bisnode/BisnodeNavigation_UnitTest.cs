@@ -6,12 +6,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WebDriverFrameworkUnitTests.Bisnode.POM;
 using static WebDriverFrameworkUnitTests.PropertiesCollection;
 
 namespace WebDriverFrameworkUnitTests
 {
     [TestFixture]
-   public class BisnodeNavigationUnitTest
+    public class BisnodeNavigationUnitTest
     {
 
         private BisnodeBasicNavigation bisnodeFactory()
@@ -26,14 +27,15 @@ namespace WebDriverFrameworkUnitTests
             PropertiesCollection.driver = new ChromeDriver(@"C:\chromedriver_win32");
             PropertiesCollection.driver.Navigate().GoToUrl("http://www.bisnode.pl/");
 
-             bisnode = bisnodeFactory();
+            bisnode = bisnodeFactory();
+
 
         }
 
         [Test]
         public void RunBase_CheckNavigation_OK()
-        {           
-           PageObjectExample pageObject = bisnode.SiteNavigation();
+        {
+            PageObjectExample pageObject = bisnode.SiteNavigation();
         }
 
         [Test]
@@ -67,10 +69,13 @@ namespace WebDriverFrameworkUnitTests
             Assert.AreEqual(result, "Polska");
         }
 
+
+
+
        [TearDown]
         public void PostConditions()
         {
-           driver.Close();   
+            PropertiesCollection.driver.Close();   
         }
 
     }

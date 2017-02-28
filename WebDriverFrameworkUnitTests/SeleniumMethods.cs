@@ -26,7 +26,8 @@ namespace WebDriverFrameworkUnitTests
              string value)
         {
             new SelectElement(element).SelectByText(value);
-        }
+
+         }
 
         public static string GetText(this IWebElement element)
         {
