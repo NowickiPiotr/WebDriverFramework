@@ -19,21 +19,23 @@ namespace WebDriverFrameworkUnitTests.Bisnode.POM
         //http://www.bisnode.pl/
 
         [FindsBy(How = How.ClassName, Using = "slider-right")]
-        public IWebElement slider_right_ClassName { get; set; }
+        public IWebElement Slider_right_ClassName { get; set; }
 
         [FindsBy(How = How.ClassName, Using = "slider-left")]
-        public IWebElement slider_left_ClassName { get; set; }
+        public IWebElement Slider_left_ClassName { get; set; }
 
         [FindsBy(How = How.ClassName, Using = "blue")]
-        public IWebElement blue_ClassName { get; set; }
+        public IWebElement Blue_ClassName { get; set; }
 
         [FindsBy(How = How.ClassName, Using = "green")]
-        public IWebElement green_ClassName { get; set; }
+        public IWebElement Green_ClassName { get; set; }
 
         [FindsBy(How = How.Name, Using = "s_email")]
-        public IWebElement s_email_Name { get; set; }
+        public IWebElement S_email_Name { get; set; }
+
+        [FindsBy(How=How.CssSelector, Using = "input[class*='wpcf7-form-control'][value='Zapisz się']")]
+        public IWebElement Save_button_CSSSelector { get; set; }
 
 
-        
     }
 }

@@ -15,14 +15,8 @@ namespace WebDriverFramework
         static void Main(string[] args)
         {
 
-            Form1 f = new Form1();
-
-            f.CaputreScreen(); //some method to capture screen
-
-            Console.ReadLine();
-
-
-            ;
         }
+
+    
     }
 }
