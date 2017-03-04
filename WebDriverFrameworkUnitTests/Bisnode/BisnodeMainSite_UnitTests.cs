@@ -72,15 +72,28 @@ namespace WebDriverFrameworkUnitTests.Bisnode.POM
         }
 
         [Test]
-        public void Navigation()
+        public void Navigation_sub_navigation_GoToTest()
         {
+            //PropertiesCollection.driver.FindElement(By.LinkText("Blog")).Click();
+            
 
-         //   PropertiesCollection.driver.Navigate().Back();
+            bisnode.Blog_LinkText.Click();
+            PropertiesCollection.driver.Navigate().Back();
 
-          //  PropertiesCollection.driver.Navigate().Forward();
+
+            bisnode.Rankings_LinkText.Click();
+            PropertiesCollection.driver.Navigate().Back();
+
+            bisnode.they_trusted_us_LinkText.Click();
+            PropertiesCollection.driver.Navigate().Back();
         }
 
-
+        [Test]
+        public void FindSaveButton_ByXpath()
+        {
+            bisnode.SaveButton_XPath.Click();
+            
+        }
 
         [TearDown]
         public void PostConditions()
@@ -89,7 +102,7 @@ namespace WebDriverFrameworkUnitTests.Bisnode.POM
             //quit() – it will close all the browsers opened by WebDriver.
          
             
-            //   PropertiesCollection.driver.Close();
+               PropertiesCollection.driver.Close();
         }
     }
 }

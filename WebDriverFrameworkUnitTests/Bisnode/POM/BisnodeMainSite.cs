@@ -36,6 +36,16 @@ namespace WebDriverFrameworkUnitTests.Bisnode.POM
         [FindsBy(How=How.CssSelector, Using = "input[class*='wpcf7-form-control'][value='Zapisz się']")]
         public IWebElement Save_button_CSSSelector { get; set; }
 
+        [FindsBy(How = How.LinkText, Using = "Blog")]
+        public IWebElement Blog_LinkText { get; set; }
 
+        [FindsBy(How = How.LinkText, Using = "Rankingi")]
+        public IWebElement Rankings_LinkText { get; set; }
+
+        [FindsBy(How = How.LinkText, Using = "Zaufali nam")]
+        public IWebElement they_trusted_us_LinkText { get; set; }
+
+        [FindsBy(How = How.XPath, Using = "//input[@class='wpcf7-form-control wpcf7-submit big-button']")]
+        public IWebElement SaveButton_XPath { get; set; }
     }
 }
