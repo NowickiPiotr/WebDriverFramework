@@ -70,7 +70,13 @@ namespace WebDriverFrameworkUnitTests
         }
 
 
+        [Test]
+        public void CheckInternational()
+        {
+            bisnode.CountryDropDown.SelectDropDownElementByText("International");
+      //      "input[class*='wpcf7-form-control'][value='Zapisz się']"
 
+        }
 
        [TearDown]
         public void PostConditions()

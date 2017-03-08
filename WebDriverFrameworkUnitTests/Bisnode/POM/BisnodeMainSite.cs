@@ -43,9 +43,14 @@ namespace WebDriverFrameworkUnitTests.Bisnode.POM
         public IWebElement Rankings_LinkText { get; set; }
 
         [FindsBy(How = How.LinkText, Using = "Zaufali nam")]
-        public IWebElement they_trusted_us_LinkText { get; set; }
+        public IWebElement They_trusted_us_LinkText { get; set; }
 
         [FindsBy(How = How.XPath, Using = "//input[@class='wpcf7-form-control wpcf7-submit big-button']")]
         public IWebElement SaveButton_XPath { get; set; }
+
+        [FindsBy(How = How.Name, Using = "country")]
+        public IWebElement Country_Name { get; set; } 
+        
+
     }
 }

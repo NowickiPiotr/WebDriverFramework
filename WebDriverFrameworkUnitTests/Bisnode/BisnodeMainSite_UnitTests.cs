@@ -7,9 +7,11 @@ using System.Text;
 using System.Threading.Tasks;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 
 namespace WebDriverFrameworkUnitTests.Bisnode.POM
 {
+
     [TestFixture]
     public class BisnodeMainSite_UnitTests
     {
@@ -17,16 +19,20 @@ namespace WebDriverFrameworkUnitTests.Bisnode.POM
         {
             return new BisnodeMainSite();
         }
+
         BisnodeMainSite bisnode;
         Actions actions;
+        WebDriverWait wait;
+
 
         [SetUp]
         public void Initialize()
         {
             PropertiesCollection.driver = new ChromeDriver(@"C:\chromedriver_win32");
             PropertiesCollection.driver.Navigate().GoToUrl("http://www.bisnode.pl/");
+           
+            wait = new WebDriverWait(PropertiesCollection.driver, TimeSpan.FromSeconds(30));
             actions = new Actions(PropertiesCollection.driver);
-
             bisnode = bisnodeMainSiteFactory();
 
         }
@@ -84,7 +90,7 @@ namespace WebDriverFrameworkUnitTests.Bisnode.POM
             bisnode.Rankings_LinkText.Click();
             PropertiesCollection.driver.Navigate().Back();
 
-            bisnode.they_trusted_us_LinkText.Click();
+            bisnode.They_trusted_us_LinkText.Click();
             PropertiesCollection.driver.Navigate().Back();
         }
 
@@ -95,13 +101,30 @@ namespace WebDriverFrameworkUnitTests.Bisnode.POM
             
         }
 
+        [Test]
+        public void explictTest()
+        { 
+        IWebElement myDynamicElement = wait.Until<IWebElement>(d => d.FindElement(By.ClassName("green")));
+        myDynamicElement.Click();
+        }
+
+        [Test]
+        public void CheckCountry_CheckCzechy_OpenTab()
+        {
+            bisnode.Country_Name.SelectDropDownElementByText("Czechy");
+        }
+
+
+
+
+
         [TearDown]
         public void PostConditions()
         {
             //close() – it will close the browser where the control is.
             //quit() – it will close all the browsers opened by WebDriver.
-         
             
+                        
                PropertiesCollection.driver.Close();
         }
     }

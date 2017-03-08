@@ -22,7 +22,9 @@ namespace WebDriverFrameworkUnitTests
         public IWebElement s_Name { get; set; }
 
         [FindsBy(How = How.Name, Using = "country")]
-        public IWebElement CountryDropDown { get; set; } 
+        public IWebElement CountryDropDown { get; set; }
+
+
 
 
 
