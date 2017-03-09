@@ -7,3 +7,13 @@ c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework
 c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.Support.xml
 c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.exe
 c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.pdb
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriverFramework.exe.config
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.exe
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.pdb
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriverFramework.exe
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriverFramework.pdb
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.dll
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.xml
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.csprojResolveAssemblyReference.cache

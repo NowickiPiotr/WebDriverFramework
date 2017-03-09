@@ -15,3 +15,16 @@ C:\Users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework
 C:\Users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\appium-dotnet-driver.xml
 C:\Users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\Castle.Core.xml
 C:\Users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\obj\Debug\WebDriverFrameworkUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\obj\Debug\WebDriverFrameworkUnitTests.dll
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\obj\Debug\WebDriverFrameworkUnitTests.pdb
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriverFrameworkUnitTests.dll
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriverFrameworkUnitTests.pdb
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\appium-dotnet-driver.dll
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriver.dll
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\appium-dotnet-driver.xml
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriver.xml
+C:\Users\Tomek\Documents\weber\WebDriverFramework\WebDriverFrameworkUnitTests\bin\Debug\WebDriver.Support.xml
