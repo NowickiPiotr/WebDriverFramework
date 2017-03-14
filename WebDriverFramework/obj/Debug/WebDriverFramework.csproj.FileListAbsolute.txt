@@ -7,3 +7,7 @@ c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework
 c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\WebDriver.Support.xml
 c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.exe
 c:\users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.pdb
+C:\Users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\HtmlAgilityPack.dll
+C:\Users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\bin\Debug\HtmlAgilityPack.xml
+C:\Users\piotr-komputer\documents\visual studio 2015\Projects\WebDriverFramework\WebDriverFramework\obj\Debug\WebDriverFramework.csprojResolveAssemblyReference.cache
